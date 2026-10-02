@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-10-01",
+  "expected": {
+    "underpaid": [
+      "INV-20260111",
+      "INV-20260112",
+      "INV-20260113"
+    ],
+    "duplicate_payment": [
+      "INV-20260114",
+      "INV-20260115"
+    ],
+    "currency_mismatch": [
+      "INV-20260116",
+      "INV-20260117"
+    ],
+    "overdue_unpaid": [
+      "INV-20260118",
+      "INV-20260119",
+      "INV-20260120",
+      "INV-20260121"
+    ],
+    "unmatched_payment": [
+      "123",
+      "124",
+      "125"
+    ],
+    "ambiguous_payment": [
+      "122"
+    ],
+    "fuzzy_matched": [
+      "INV-20260122",
+      "INV-20260123"
+    ]
+  }
+}
